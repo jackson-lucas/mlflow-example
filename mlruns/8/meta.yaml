@@ -1,0 +1,4 @@
+artifact_location: file:///workspace/mlruns/8
+experiment_id: '8'
+lifecycle_stage: active
+name: random_exp

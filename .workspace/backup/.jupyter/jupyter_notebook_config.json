@@ -1,0 +1,17 @@
+{
+    "NotebookApp": {
+        "nbserver_extensions": {
+            "jupyter_tensorboard": true,
+            "jupyter_nbextensions_configurator": true,
+            "nbresuse": true,
+            "jupyter_http_over_ws": true,
+            "jupyterlab_git": true,
+            "jupyterlab_iframe.extension": true,
+            "jupyterlab_code_formatter": true,
+            "jupyter_tooling.tooling_handler": true
+        },
+        "server_extensions": [
+            "jupyter_tooling.tooling_handler"
+        ]
+    }
+}

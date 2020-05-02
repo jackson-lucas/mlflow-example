@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/8/e8616a151a474a75abaf424be1c3ecb6/artifacts
+end_time: 1588339958483
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+name: ''
+run_id: e8616a151a474a75abaf424be1c3ecb6
+run_uuid: e8616a151a474a75abaf424be1c3ecb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1588339958077
+status: 3
+tags: []
+user_id: root

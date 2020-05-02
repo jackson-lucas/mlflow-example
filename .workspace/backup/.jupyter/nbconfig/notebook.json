@@ -1,0 +1,21 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "jupytext/index": true,
+    "jupyter_server_proxy/tree": false,
+    "skip-traceback/main": true,
+    "comment-uncomment/main": true,
+    "varInspector/main": true,
+    "toc2/main": true,
+    "spellchecker/main": true,
+    "execute_time/ExecuteTime": true,
+    "collapsible_headings/main": true,
+    "codefolding/main": true,
+    "jupyter_tooling/open-tools-widget": true,
+    "jupyter_tooling/tooling-notebook-widget": true
+  },
+  "toc2": {
+    "moveMenuLeft": false
+  }
+}

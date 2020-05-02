@@ -1,0 +1,20 @@
+# Manipulando resultados de aprendizado de máquina com estado randômico
+
+## Descrição
+
+Tunagem por hiperparametros, realizando feature engineering , seleção de features etc, são todos processos que fazem parte fluxo para desenvolvimento de aprendizado de máquina. 
+Horas são passadas tunando e modificando cada parte do processo para melhorar o resultado do nosso modelo. Porém, tem um argumento presente nas funções populares em
+ ciência de dados que pode ser modificado para alterar o resultado e não tem nada haver com conhecimento de domínio ou manipulação que tenha feito nos seus dados, estado randômico.
+Nesse experimento desejamos analisar a variação do resultado do modelo pela variação do estado randômico em dois pontos (divisão da base em treino/teste e criação do modelo) 
+
+...
+
+## Resultados
+
+Nos experimentos com a tag {selecionar:"sim"} temos o pior([0.444](http://localhost:5000/#/experiments/8/runs/cecc499a521c4b49b211e955fbb895e9)) e o melhor resultado ([0.059](http://localhost:5000/#/experiments/8/runs/586a7f48a2a44e7db8169f9d5ed74107)) pela métrica log_loss, com isso temos uma diferenção entre máximo e mínimo de 0.385.
+
+## Conclusão
+
+...
+
+Fonte: https://towardsdatascience.com/manipulating-machine-learning-results-with-random-state-2a6f49b31081

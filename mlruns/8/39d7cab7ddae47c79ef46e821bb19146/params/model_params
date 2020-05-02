@@ -1,0 +1,1 @@
+{'objective': 'multi:softprob', 'num_class': 3, 'eval_metric': 'mlogloss', 'colsample_bytree': 0.8, 'subsample': 0.9, 'seed': 18}
